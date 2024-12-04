@@ -76,7 +76,7 @@ I focus on enhancing **DevOps practices** to streamline CI/CD pipelines, improve
 ## 📫 Let's Connect
 
 - **LinkedIn**: [https://www.linkedin.com/in/sajjad-zareii/](https://linkedin.com/in/sajjad-zarei)
-- **Email**: [sajjad.zareii@email.com](mailto:sajjad.zarei@email.com)
-- **Email**: [sajjad.zareii@email.com](mailto:sajjad.zarei@email.com)
+- **Email**: [sajjad.zareii@email.com](mailto:sajjad.zarei@gmail.com)
+- **Email**: [sajjad.zareii@email.com](mailto:sajjad.zarei@yahoo.com)
 
 Feel free to check out my repositories for more insights into my work. I'm always open to collaboration and new opportunities!
