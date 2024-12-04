@@ -75,7 +75,7 @@ I focus on enhancing **DevOps practices** to streamline CI/CD pipelines, improve
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [www.linkedin.com/in/sajjad-zareii](https://linkedin.com/in/sajjad-zarei)
+- **LinkedIn**: [https://www.linkedin.com/in/sajjad-zareii/](https://linkedin.com/in/sajjad-zarei)
 - **Email**: [sajjad.zareii@email.com](mailto:sajjad.zarei@email.com)
 - **Email**: [sajjad.zareii@email.com](mailto:sajjad.zarei@email.com)
 
