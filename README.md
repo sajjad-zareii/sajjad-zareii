@@ -41,16 +41,14 @@ I specialize in building scalable, secure, and highly available cloud solutions.
 
 ## 📈 My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-zareii&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-zareii&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/sajjad-zareii)
-- **Email**: [yourname@example.com](mailto:sajjad.zareii@gmail.com)
-- **Email**: [yourname@example.com](mailto:sajjad.zareii@yahoo.com)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com) (if applicable)
+- **LinkedIn**: [www.linkedin.com/in/sajjad-zareii](https://linkedin.com/in/sajjad-zareii)
+- **Email**: [mailto:sajjad.zareii@gmail.com](mailto:sajjad.zareii@gmail.com)
+- **Email**: [mailto:sajjad.zareii@yahoo.com](mailto:sajjad.zareii@yahoo.com)
 
 Feel free to check out my repositories for more insights into my work. I'm always open to collaboration and new opportunities!
