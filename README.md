@@ -1,5 +1,5 @@
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat /> 
 </p>
 # 👋 Hi, I'm **Sajjad Zarei**!
 
